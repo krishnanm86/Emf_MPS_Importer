@@ -2,7 +2,9 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/org.smodel.test/org.smodel.test.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/org.kriTestPlugin/org.emf_mps.importer.msd" folder="" />
+      <modulePath path="$USER_HOME$/MPSProjects/Project_Test/solutions/org.kriTestPlugin/org.emf_mps.importer.msd" folder="" />
     </projectModules>
   </component>
 </project>
