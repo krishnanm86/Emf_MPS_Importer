@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1144226303539:jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/6329021646629104954:jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1164879751025:jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+  <root nodeRef="r:1764e886-bde7-4513-8b69-527af62b45d0(org.kriTest.Plugin.plugin)/3040426542818138996">
+    <file name="Plugin_ApplicationPlugin.java">
+      <node id="3040426542818138996" at="9,0,10,0" concept="3" trace="myId" />
+      <node id="3040426542818138996" at="12,27,13,16" concept="8" />
+      <node id="3040426542818138996" at="15,30,16,30" concept="9" />
+      <node id="3040426542818138996" at="16,30,17,42" concept="2" />
+      <node id="3040426542818138996" at="17,42,18,14" concept="9" />
+      <node id="3040426542818138996" at="18,14,19,48" concept="2" />
+      <node id="3040426542818138996" at="21,37,22,103" concept="2" />
+      <node id="3040426542818138996" at="10,0,12,0" concept="1" trace="Plugin_ApplicationPlugin#()V" />
+      <node id="3040426542818138996" at="12,0,15,0" concept="6" trace="getId#()Lcom/intellij/openapi/extensions/PluginId;" />
+      <node id="3040426542818138996" at="21,0,24,0" concept="6" trace="adjustRegularGroups#()V" />
+      <node id="3040426542818138996" at="15,0,21,0" concept="6" trace="createGroups#()V" />
+      <scope id="3040426542818138996" at="10,37,10,37" />
+      <scope id="3040426542818138996" at="12,27,13,16" />
+      <scope id="3040426542818138996" at="21,37,22,103" />
+      <scope id="3040426542818138996" at="10,0,12,0" />
+      <scope id="3040426542818138996" at="12,0,15,0" />
+      <scope id="3040426542818138996" at="21,0,24,0" />
+      <scope id="3040426542818138996" at="15,30,19,48" />
+      <scope id="3040426542818138996" at="15,0,21,0" />
+      <unit id="3040426542818138996" at="8,0,25,0" name="org.kriTest.Plugin.plugin.Plugin_ApplicationPlugin" />
+    </file>
+    <file name="Plugin_ProjectPlugin.java">
+      <node id="3040426542818138996" at="15,56,16,76" concept="7" />
+      <node id="3040426542818138996" at="16,76,17,73" concept="2" />
+      <node id="3040426542818138996" at="17,73,18,17" concept="8" />
+      <node id="3040426542818138996" at="13,0,15,0" concept="1" trace="Plugin_ProjectPlugin#()V" />
+      <node id="3040426542818138996" at="15,0,20,0" concept="6" trace="initAllTools1#(Lcom/intellij/openapi/project/Project;)Ljava/util/List;" />
+      <scope id="3040426542818138996" at="13,33,13,33" />
+      <scope id="3040426542818138996" at="13,0,15,0" />
+      <scope id="3040426542818138996" at="15,56,18,17">
+        <var name="tools" id="3040426542818138996" />
+      </scope>
+      <scope id="3040426542818138996" at="15,0,20,0">
+        <var name="project" id="3040426542818138996" />
+      </scope>
+      <unit id="3040426542818138996" at="12,0,21,0" name="org.kriTest.Plugin.plugin.Plugin_ProjectPlugin" />
+    </file>
+  </root>
+  <root nodeRef="r:1764e886-bde7-4513-8b69-527af62b45d0(org.kriTest.Plugin.plugin)/3040426542818139238">
+    <file name="SVgViewer_Tool.java">
+      <node id="3040426542818139238" at="13,0,14,0" concept="10" trace="ICON" />
+      <node id="3040426542818139238" at="14,42,15,79" concept="11" />
+      <node id="5898180265947788158" at="17,36,18,50" concept="7" />
+      <node id="5898180265947873300" at="18,50,19,42" concept="2" />
+      <node id="5898180265947892385" at="19,42,20,23" concept="8" />
+      <node id="3040426542818139238" at="14,0,17,0" concept="1" trace="SVgViewer_Tool#(Lcom/intellij/openapi/project/Project;)V" />
+      <node id="3040426542818139238" at="17,0,22,0" concept="6" trace="getComponent#()Ljavax/swing/JComponent;" />
+      <scope id="3040426542818139238" at="14,42,15,79" />
+      <scope id="3040426542818139238" at="14,0,17,0">
+        <var name="project" id="3040426542818139238" />
+      </scope>
+      <scope id="3040426542818139240" at="17,36,20,23">
+        <var name="filechooser" id="5898180265947788159" />
+      </scope>
+      <scope id="3040426542818139238" at="17,0,22,0" />
+      <unit id="3040426542818139238" at="12,0,23,0" name="org.kriTest.Plugin.plugin.SVgViewer_Tool" />
+    </file>
+  </root>
+  <root nodeRef="r:1764e886-bde7-4513-8b69-527af62b45d0(org.kriTest.Plugin.plugin)/3040426542818214336">
+    <file name="triggerAction_Action.java">
+      <node id="3040426542818214336" at="26,0,27,0" concept="10" trace="ICON" />
+      <node id="3040426542818214336" at="28,33,29,41" concept="11" />
+      <node id="3040426542818214336" at="29,41,30,35" concept="2" />
+      <node id="3040426542818214336" at="30,35,31,41" concept="2" />
+      <node id="3040426542818214336" at="31,41,32,36" concept="2" />
+      <node id="3040426542818214336" at="35,32,36,16" concept="8" />
+      <node id="3040426542818214336" at="40,53,41,19" concept="8" />
+      <node id="3040426542818214336" at="43,5,44,56" concept="7" />
+      <node id="3040426542818214336" at="45,22,46,21" concept="8" />
+      <node id="3040426542818214336" at="48,5,49,16" concept="8" />
+      <node id="5898180265948135631" at="52,96,53,50" concept="7" />
+      <node id="4176640859322802312" at="53,50,54,80" concept="7" />
+      <node id="4176640859322806010" at="54,80,55,42" concept="2" />
+      <node id="5898180265948137017" at="55,42,56,50" concept="7" />
+      <node id="4176640859322756954" at="57,48,58,77" concept="7" />
+      <node id="6766285836560506960" at="58,77,59,90" concept="7" />
+      <node id="1776449868586942602" at="59,90,60,47" concept="2" />
+      <node id="6766285836560609900" at="60,47,61,71" concept="2" />
+      <node id="6766285836560487505" at="64,77,65,120" concept="9" />
+      <node id="1776449868586903922" at="65,120,66,88" concept="7" />
+      <node id="6766285836560504250" at="66,88,67,117" concept="9" />
+      <node id="6766285836560526722" at="67,117,68,31" concept="7" />
+      <node id="6766285836560540936" at="69,9,70,65" concept="2" />
+      <node id="6766285836560554366" at="71,27,72,75" concept="2" />
+      <node id="6766285836560556183" at="72,75,73,41" concept="2" />
+      <node id="6766285836560563924" at="74,5,75,22" concept="8" />
+      <node id="6766285836560515870" at="77,81,78,129" concept="9" />
+      <node id="6766285836560511480" at="78,129,79,52" concept="7" />
+      <node id="6766285836560511485" at="79,52,80,117" concept="2" />
+      <node id="6766285836560511496" at="80,117,81,113" concept="2" />
+      <node id="6766285836560511516" at="81,113,82,70" concept="8" />
+      <node id="6766285836560592109" at="84,81,85,42" concept="7" />
+      <node id="6766285836560606520" at="86,37,87,51" concept="7" />
+      <node id="6766285836560608491" at="87,51,88,43" concept="2" />
+      <node id="3040426542818214336" at="39,95,42,5" concept="5" />
+      <node id="3040426542818214336" at="44,56,47,7" concept="5" />
+      <node id="3040426542818214336" at="34,0,38,0" concept="6" trace="isDumbAware#()Z" />
+      <node id="6766285836560601100" at="85,42,89,5" concept="4" />
+      <node id="3040426542818214336" at="28,0,34,0" concept="1" trace="triggerAction_Action#()V" />
+      <node id="3040426542818214336" at="42,5,48,5" concept="0" />
+      <node id="141641239199791749" at="56,50,62,5" concept="5" />
+      <node id="6766285836560525558" at="68,31,74,5" concept="12" />
+      <node id="6766285836560511523" at="77,0,84,0" concept="6" trace="getEcoreMetaModel#(Ljava/lang/String;Lcom/intellij/openapi/actionSystem/AnActionEvent;)Lorg/eclipse/emf/ecore/resource/Resource;" />
+      <node id="6766285836560572378" at="84,0,91,0" concept="6" trace="prettyPrintEPackage#(Lorg/eclipse/emf/ecore/EPackage;Lcom/intellij/openapi/actionSystem/AnActionEvent;)V" />
+      <node id="3040426542818214336" at="38,0,51,0" concept="6" trace="collectActionData#(Lcom/intellij/openapi/actionSystem/AnActionEvent;Ljava/util/Map;)Z" />
+      <node id="3040426542818214336" at="51,0,64,0" concept="6" trace="doExecute#(Lcom/intellij/openapi/actionSystem/AnActionEvent;Ljava/util/Map;)V" />
+      <node id="1776449868586753925" at="64,0,77,0" concept="6" trace="getEcoreModel#(Ljava/lang/String;Lcom/intellij/openapi/actionSystem/AnActionEvent;)Lorg/eclipse/emf/ecore/EPackage;" />
+      <scope id="3040426542818214336" at="35,32,36,16" />
+      <scope id="3040426542818214336" at="40,53,41,19" />
+      <scope id="3040426542818214336" at="45,22,46,21" />
+      <scope id="6766285836560525560" at="69,9,70,65" />
+      <scope id="6766285836560525561" at="71,0,73,41">
+        <var name="e" id="6766285836560525563" />
+      </scope>
+      <scope id="6766285836560525567" at="71,27,73,41" />
+      <scope id="6766285836560601102" at="86,37,88,43">
+        <var name="contentasEObject" id="6766285836560606521" />
+      </scope>
+      <scope id="3040426542818214336" at="28,33,32,36" />
+      <scope id="3040426542818214336" at="34,0,38,0" />
+      <scope id="3040426542818214336" at="43,5,47,7">
+        <var name="p" id="3040426542818214336" />
+      </scope>
+      <scope id="141641239199791751" at="57,48,61,71">
+        <var name="ecoreFilename" id="4176640859322756957" />
+        <var name="ecoreModel" id="6766285836560506961" />
+      </scope>
+      <scope id="6766285836560601100" at="85,42,89,5">
+        <var name="content" id="6766285836560601103" />
+      </scope>
+      <scope id="6766285836560511477" at="77,81,82,70">
+        <var name="resourceSet" id="6766285836560511481" />
+      </scope>
+      <scope id="6766285836560572380" at="84,81,89,5">
+        <var name="contents" id="6766285836560592110" />
+      </scope>
+      <scope id="3040426542818214336" at="28,0,34,0" />
+      <scope id="6766285836560511523" at="77,0,84,0">
+        <var name="event" id="6766285836560511523" />
+        <var name="fileName" id="6766285836560511518" />
+      </scope>
+      <scope id="6766285836560572378" at="84,0,91,0">
+        <var name="epackage" id="6766285836560573909" />
+        <var name="event" id="6766285836560572378" />
+      </scope>
+      <scope id="3040426542818214336" at="39,95,49,16" />
+      <scope id="3040426542818214336" at="52,96,62,5">
+        <var name="fileChooser" id="5898180265948135632" />
+        <var name="fileFilter" id="4176640859322802313" />
+        <var name="result" id="5898180265948137020" />
+      </scope>
+      <scope id="1776449868586753927" at="64,77,75,22">
+        <var name="retPackage" id="6766285836560526723" />
+        <var name="retResource" id="1776449868586903923" />
+      </scope>
+      <scope id="3040426542818214336" at="38,0,51,0">
+        <var name="_params" id="3040426542818214336" />
+        <var name="event" id="3040426542818214336" />
+      </scope>
+      <scope id="3040426542818214336" at="51,0,64,0">
+        <var name="_params" id="3040426542818214336" />
+        <var name="event" id="3040426542818214336" />
+      </scope>
+      <scope id="1776449868586753925" at="64,0,77,0">
+        <var name="event" id="1776449868586753925" />
+        <var name="fileName" id="1776449868586755063" />
+      </scope>
+      <unit id="3040426542818214336" at="25,0,92,0" name="org.kriTest.Plugin.plugin.triggerAction_Action" />
+    </file>
+  </root>
+  <root nodeRef="r:1764e886-bde7-4513-8b69-527af62b45d0(org.kriTest.Plugin.plugin)/3040426542818248921">
+    <file name="testActionGroup_ActionGroup.java">
+      <node id="3040426542818248921" at="8,0,9,0" concept="10" trace="ID" />
+      <node id="3040426542818248921" at="9,40,10,33" concept="11" />
+      <node id="3040426542818248921" at="10,33,11,30" concept="2" />
+      <node id="3040426542818248921" at="11,30,12,25" concept="2" />
+      <node id="3040426542818248936" at="12,25,13,97" concept="2" />
+      <node id="3040426542818248921" at="9,0,15,0" concept="1" trace="testActionGroup_ActionGroup#()V" />
+      <scope id="3040426542818248921" at="9,40,13,97" />
+      <scope id="3040426542818248921" at="9,0,15,0" />
+      <unit id="3040426542818248921" at="7,0,16,0" name="org.kriTest.Plugin.plugin.testActionGroup_ActionGroup" />
+    </file>
+  </root>
+</debug-info>
+
