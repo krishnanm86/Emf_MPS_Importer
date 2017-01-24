@@ -10,100 +10,164 @@
   <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
   <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
   <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/6329021646629104954:jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
   <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
   <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
   <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
   <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1164879751025:jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
   <root nodeRef="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/1091774199223619537">
     <file name="ImporterUtils.java">
-      <node id="1091774199223635397" at="22,57,23,120" concept="9" />
-      <node id="1091774199223635399" at="23,120,24,55" concept="7" />
-      <node id="1091774199223635404" at="24,55,25,117" concept="9" />
-      <node id="1091774199223635406" at="25,117,26,31" concept="7" />
-      <node id="1091774199223635412" at="27,9,28,65" concept="2" />
-      <node id="1091774199223635428" at="29,27,30,75" concept="2" />
-      <node id="1091774199223635433" at="30,75,31,41" concept="2" />
-      <node id="1091774199223635440" at="32,5,33,22" concept="8" />
-      <node id="1091774199223637231" at="36,61,37,129" concept="9" />
-      <node id="1091774199223637233" at="37,129,38,52" concept="7" />
-      <node id="1091774199223637238" at="38,52,39,117" concept="2" />
-      <node id="1091774199223637249" at="39,117,40,113" concept="2" />
-      <node id="1091774199223637260" at="40,113,41,70" concept="8" />
-      <node id="1091774199223641193" at="44,79,45,42" concept="7" />
-      <node id="1091774199223641201" at="46,37,47,51" concept="7" />
-      <node id="1091774199223641207" at="47,51,48,43" concept="2" />
-      <node id="1091774199223641214" at="49,22,50,55" concept="2" />
-      <node id="1091774199223641219" at="50,55,51,52" concept="2" />
-      <node id="5959736156251809555" at="56,79,57,135" concept="2" />
-      <node id="482512965540603633" at="59,42,60,52" concept="7" />
-      <node id="2471991291729205806" at="61,37,62,235" concept="7" />
-      <node id="2471991291729205812" at="62,235,63,182" concept="2" />
-      <node id="2471991291729205823" at="64,16,65,224" concept="7" />
-      <node id="2471991291729205829" at="65,224,66,181" concept="2" />
-      <node id="2471991291729205835" at="66,181,67,40" concept="9" />
-      <node id="2471991291729205837" at="67,40,68,175" concept="2" />
-      <node id="1091774199223641212" at="48,43,52,7" concept="5" />
-      <node id="2471991291729205820" at="64,14,69,9" concept="0" />
-      <node id="1091774199223635410" at="26,31,32,5" concept="13" />
-      <node id="1091774199223637228" at="36,0,43,0" concept="11" trace="getEcoreMetaModel#(Ljava/lang/String;)Lorg/eclipse/emf/ecore/resource/Resource;" />
-      <node id="1091774199223641199" at="45,42,53,5" concept="4" />
-      <node id="2471991291729205804" at="60,52,69,9" concept="5" />
-      <node id="1091774199223641190" at="44,0,55,0" concept="11" trace="prettyPrintEPackage#(Lorg/eclipse/emf/ecore/EObject;Z)V" />
-      <node id="482512965540583901" at="58,55,70,7" concept="5" />
-      <node id="1091774199223635394" at="22,0,35,0" concept="11" trace="getEcoreModel#(Ljava/lang/String;)Lorg/eclipse/emf/ecore/EPackage;" />
-      <node id="5959736156251900070" at="57,135,71,5" concept="4" />
-      <node id="5959736156251801661" at="56,0,73,0" concept="11" trace="importIntoMPS#(Lorg/jetbrains/mps/openapi/model/SModel;Lorg/eclipse/emf/ecore/EPackage;)V" />
-      <scope id="1091774199223635411" at="27,9,28,65" />
-      <scope id="1091774199223635424" at="29,0,31,41">
+      <node id="1091774199223635397" at="28,57,29,120" concept="9" />
+      <node id="1091774199223635399" at="29,120,30,55" concept="7" />
+      <node id="1091774199223635404" at="30,55,31,117" concept="9" />
+      <node id="1091774199223635406" at="31,117,32,31" concept="7" />
+      <node id="1091774199223635412" at="33,9,34,65" concept="2" />
+      <node id="1091774199223635428" at="35,27,36,75" concept="2" />
+      <node id="1091774199223635433" at="36,75,37,41" concept="2" />
+      <node id="1091774199223635440" at="38,5,39,22" concept="8" />
+      <node id="1091774199223637231" at="42,61,43,129" concept="9" />
+      <node id="1091774199223637233" at="43,129,44,52" concept="7" />
+      <node id="1091774199223637238" at="44,52,45,117" concept="2" />
+      <node id="1091774199223637249" at="45,117,46,113" concept="2" />
+      <node id="1091774199223637260" at="46,113,47,70" concept="8" />
+      <node id="1091774199223641193" at="50,79,51,42" concept="7" />
+      <node id="1091774199223641201" at="52,37,53,51" concept="7" />
+      <node id="1091774199223641207" at="53,51,54,43" concept="2" />
+      <node id="1091774199223641214" at="55,22,56,55" concept="2" />
+      <node id="1091774199223641219" at="56,55,57,52" concept="2" />
+      <node id="5959736156251809555" at="62,79,63,135" concept="2" />
+      <node id="482512965540603633" at="65,42,66,52" concept="7" />
+      <node id="2471991291729205806" at="67,37,68,235" concept="7" />
+      <node id="2471991291729205812" at="68,235,69,182" concept="2" />
+      <node id="6468555087646565711" at="69,182,70,48" concept="2" />
+      <node id="6468555087647122091" at="70,48,71,48" concept="2" />
+      <node id="6468555087647121519" at="71,48,72,0" concept="10" />
+      <node id="2471991291729205823" at="73,16,74,224" concept="7" />
+      <node id="2471991291729205829" at="74,224,75,181" concept="2" />
+      <node id="2471991291729205835" at="75,181,76,40" concept="9" />
+      <node id="2471991291729205837" at="76,40,77,175" concept="2" />
+      <node id="6468555087646570329" at="77,175,78,47" concept="2" />
+      <node id="6468555087647123302" at="78,47,79,47" concept="2" />
+      <node id="6468555087647122714" at="79,47,80,0" concept="10" />
+      <node id="6468555087646548173" at="82,48,83,61" concept="9" />
+      <node id="6468555087647126458" at="89,54,90,57" concept="7" />
+      <node id="6468555087647126464" at="90,57,91,209" concept="7" />
+      <node id="6468555087647126470" at="91,209,92,186" concept="2" />
+      <node id="6468555087647126478" at="92,186,93,224" concept="2" />
+      <node id="6468555087647126490" at="93,224,94,229" concept="2" />
+      <node id="6468555087646614800" at="100,54,101,57" concept="7" />
+      <node id="6468555087646620028" at="101,57,102,209" concept="7" />
+      <node id="6468555087646665333" at="102,209,103,186" concept="2" />
+      <node id="6468555087646737872" at="103,186,104,224" concept="2" />
+      <node id="6468555087646905462" at="104,224,105,229" concept="2" />
+      <node id="6468555087646964579" at="109,64,110,138" concept="7" />
+      <node id="6468555087647075032" at="111,42,112,111" concept="2" />
+      <node id="6468555087647086223" at="113,51,114,113" concept="2" />
+      <node id="6468555087647118338" at="115,5,116,60" concept="9" />
+      <node id="6468555087647118902" at="116,60,117,94" concept="9" />
+      <node id="6468555087647120781" at="117,94,118,87" concept="9" />
+      <node id="6468555087646965881" at="118,87,119,19" concept="8" />
+      <node id="1091774199223641212" at="54,43,58,7" concept="5" />
+      <node id="6468555087647065946" at="110,138,115,5" concept="5" />
+      <node id="1091774199223635410" at="32,31,38,5" concept="14" />
+      <node id="1091774199223637228" at="42,0,49,0" concept="12" trace="getEcoreMetaModel#(Ljava/lang/String;)Lorg/eclipse/emf/ecore/resource/Resource;" />
+      <node id="6468555087647126451" at="88,78,95,5" concept="4" />
+      <node id="6468555087646589991" at="99,78,106,5" concept="4" />
+      <node id="1091774199223641199" at="51,42,59,5" concept="4" />
+      <node id="2471991291729205820" at="73,14,81,9" concept="0" />
+      <node id="6468555087647126449" at="88,0,97,0" concept="12" trace="addReferences#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/eclipse/emf/ecore/impl/EClassImpl;)V" />
+      <node id="6468555087646558192" at="99,0,108,0" concept="12" trace="addProperties#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/eclipse/emf/ecore/impl/EClassImpl;)V" />
+      <node id="1091774199223641190" at="50,0,61,0" concept="12" trace="prettyPrintEPackage#(Lorg/eclipse/emf/ecore/EObject;Z)V" />
+      <node id="6468555087646960186" at="109,0,121,0" concept="12" trace="getTypeAsMPSNode#(Ljava/lang/String;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <node id="1091774199223635394" at="28,0,41,0" concept="12" trace="getEcoreModel#(Ljava/lang/String;)Lorg/eclipse/emf/ecore/EPackage;" />
+      <node id="2471991291729205804" at="66,52,81,9" concept="5" />
+      <node id="482512965540583901" at="64,55,84,7" concept="5" />
+      <node id="5959736156251900070" at="63,135,85,5" concept="4" />
+      <node id="5959736156251801661" at="62,0,87,0" concept="12" trace="importIntoMPS#(Lorg/jetbrains/mps/openapi/model/SModel;Lorg/eclipse/emf/ecore/EPackage;)V" />
+      <scope id="1091774199223635411" at="33,9,34,65" />
+      <scope id="6468555087646489628" at="82,48,83,61" />
+      <scope id="6468555087647065948" at="111,42,112,111" />
+      <scope id="6468555087647079297" at="113,51,114,113" />
+      <scope id="1091774199223635424" at="35,0,37,41">
         <var name="e" id="1091774199223635425" />
       </scope>
-      <scope id="1091774199223635427" at="29,27,31,41" />
-      <scope id="1091774199223641213" at="49,22,51,52" />
-      <scope id="2471991291729205805" at="61,37,63,182">
-        <var name="icdCurrNode" id="2471991291729205807" />
-      </scope>
-      <scope id="2471991291729205821" at="64,16,68,175">
-        <var name="cdCurrNode" id="2471991291729205824" />
-      </scope>
-      <scope id="1091774199223637230" at="36,61,41,70">
+      <scope id="1091774199223635427" at="35,27,37,41" />
+      <scope id="1091774199223641213" at="55,22,57,52" />
+      <scope id="1091774199223637230" at="42,61,47,70">
         <var name="resourceSet" id="1091774199223637234" />
       </scope>
-      <scope id="1091774199223641200" at="46,37,52,7">
+      <scope id="2471991291729205805" at="67,37,72,0">
+        <var name="icdCurrNode" id="2471991291729205807" />
+      </scope>
+      <scope id="6468555087647126457" at="89,54,94,229">
+        <var name="newProperty" id="6468555087647126465" />
+        <var name="objectasAttribute" id="6468555087647126459" />
+      </scope>
+      <scope id="6468555087646589994" at="100,54,105,229">
+        <var name="newProperty" id="6468555087646620031" />
+        <var name="objectasAttribute" id="6468555087646614801" />
+      </scope>
+      <scope id="1091774199223641200" at="52,37,58,7">
         <var name="contentasEObject" id="1091774199223641202" />
       </scope>
-      <scope id="1091774199223637228" at="36,0,43,0">
+      <scope id="1091774199223637228" at="42,0,49,0">
         <var name="fileName" id="1091774199223637268" />
       </scope>
-      <scope id="1091774199223641199" at="45,42,53,5">
+      <scope id="2471991291729205821" at="73,16,80,0">
+        <var name="cdCurrNode" id="2471991291729205824" />
+      </scope>
+      <scope id="6468555087647126450" at="88,78,95,5" />
+      <scope id="6468555087647126451" at="88,78,95,5">
+        <var name="object" id="6468555087647126452" />
+      </scope>
+      <scope id="6468555087646558195" at="99,78,106,5" />
+      <scope id="6468555087646589991" at="99,78,106,5">
+        <var name="object" id="6468555087646589992" />
+      </scope>
+      <scope id="1091774199223641199" at="51,42,59,5">
         <var name="content" id="1091774199223641224" />
       </scope>
-      <scope id="1091774199223641192" at="44,79,53,5">
+      <scope id="1091774199223641192" at="50,79,59,5">
         <var name="contents" id="1091774199223641194" />
       </scope>
-      <scope id="482512965540583903" at="59,42,69,9">
-        <var name="classImpl" id="482512965540603634" />
+      <scope id="6468555087647126449" at="88,0,97,0">
+        <var name="classImpl" id="6468555087647126501" />
+        <var name="conceptNode" id="6468555087647126499" />
       </scope>
-      <scope id="1091774199223635396" at="22,57,33,22">
+      <scope id="6468555087646558192" at="99,0,108,0">
+        <var name="classImpl" id="6468555087646562640" />
+        <var name="conceptNode" id="6468555087646560423" />
+      </scope>
+      <scope id="6468555087646960189" at="109,64,119,19">
+        <var name="retNode" id="6468555087646964582" />
+      </scope>
+      <scope id="1091774199223635396" at="28,57,39,22">
         <var name="retPackage" id="1091774199223635407" />
         <var name="retResource" id="1091774199223635400" />
       </scope>
-      <scope id="1091774199223641190" at="44,0,55,0">
+      <scope id="1091774199223641190" at="50,0,61,0">
         <var name="epackage" id="1091774199223641228" />
         <var name="recursive" id="1091774199223641230" />
       </scope>
-      <scope id="5959736156251900072" at="58,55,70,7" />
-      <scope id="1091774199223635394" at="22,0,35,0">
+      <scope id="6468555087646960186" at="109,0,121,0">
+        <var name="typeAsELiteral" id="6468555087646961775" />
+      </scope>
+      <scope id="1091774199223635394" at="28,0,41,0">
         <var name="fileName" id="1091774199223635443" />
       </scope>
-      <scope id="5959736156251900070" at="57,135,71,5">
+      <scope id="482512965540583903" at="65,42,81,9">
+        <var name="classImpl" id="482512965540603634" />
+      </scope>
+      <scope id="5959736156251900072" at="64,55,84,7" />
+      <scope id="5959736156251900070" at="63,135,85,5">
         <var name="content" id="5959736156251900073" />
       </scope>
-      <scope id="5959736156251801663" at="56,79,71,5" />
-      <scope id="5959736156251801661" at="56,0,73,0">
+      <scope id="5959736156251801663" at="62,79,85,5" />
+      <scope id="5959736156251801661" at="62,0,87,0">
         <var name="currModel" id="5959736156251801666" />
         <var name="ecoremetamodel" id="5959736156251801668" />
       </scope>
-      <unit id="1091774199223619537" at="21,0,75,0" name="org.emf_mps.importer.plugin.ImporterUtils" />
+      <unit id="1091774199223619537" at="27,0,122,0" name="org.emf_mps.importer.plugin.ImporterUtils" />
     </file>
   </root>
   <root nodeRef="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/3040426542818138996">
@@ -148,8 +212,8 @@
   </root>
   <root nodeRef="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/3040426542818139238">
     <file name="ImportViewer_Tool.java">
-      <node id="3040426542818139238" at="13,0,14,0" concept="10" trace="ICON" />
-      <node id="3040426542818139238" at="14,45,15,79" concept="12" />
+      <node id="3040426542818139238" at="13,0,14,0" concept="11" trace="ICON" />
+      <node id="3040426542818139238" at="14,45,15,79" concept="13" />
       <node id="5898180265947788158" at="17,36,18,50" concept="7" />
       <node id="5898180265947873300" at="18,50,19,42" concept="2" />
       <node id="5898180265947892385" at="19,42,20,23" concept="8" />
@@ -168,8 +232,8 @@
   </root>
   <root nodeRef="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/3040426542818214336">
     <file name="importEcoreAction_Action.java">
-      <node id="3040426542818214336" at="18,0,19,0" concept="10" trace="ICON" />
-      <node id="3040426542818214336" at="20,37,21,49" concept="12" />
+      <node id="3040426542818214336" at="18,0,19,0" concept="11" trace="ICON" />
+      <node id="3040426542818214336" at="20,37,21,49" concept="13" />
       <node id="3040426542818214336" at="21,49,22,35" concept="2" />
       <node id="3040426542818214336" at="22,35,23,41" concept="2" />
       <node id="3040426542818214336" at="23,41,24,36" concept="2" />
@@ -228,8 +292,8 @@
   </root>
   <root nodeRef="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/3040426542818248921">
     <file name="importActionGroup_ActionGroup.java">
-      <node id="3040426542818248921" at="8,0,9,0" concept="10" trace="ID" />
-      <node id="3040426542818248921" at="9,42,10,35" concept="12" />
+      <node id="3040426542818248921" at="8,0,9,0" concept="11" trace="ID" />
+      <node id="3040426542818248921" at="9,42,10,35" concept="13" />
       <node id="3040426542818248921" at="10,35,11,30" concept="2" />
       <node id="3040426542818248921" at="11,30,12,25" concept="2" />
       <node id="3040426542818248936" at="12,25,13,105" concept="2" />

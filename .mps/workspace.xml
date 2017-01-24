@@ -7,73 +7,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb29ca48-eca1-4e36-a785-12badba2ed6c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.source_2.9.0.v20160526-0356.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.converter.source_2.7.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ecore2ecore.editor.source_2.7.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.change.edit.source_2.6.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.importer.source_2.9.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/ecore-xmi-2.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.source_2.12.0.v20160420-0247.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/Importer_ApplicationPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.common.ui.source_2.11.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.editor.source_2.12.0.v20160526-0356.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/Importer_ApplicationPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.codegen.ui.source_2.6.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.change.source_2.11.0.v20160420-0247.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen.caches/org/emf_mps/importer/plugin/dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.codegen.ecore.source_2.12.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/testActionGroup_ActionGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.importer.java.source_2.7.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen.caches/org/kriTest/Plugin/plugin/dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/Plugin_ProjectPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/importActionGroup_ActionGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen.caches/org/kriTest/Plugin/plugin/generated" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/org.emf_mps.importer.msd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/ImportViewer_Tool.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.importer.ecore.source_2.8.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ecore2ecore.editor.source_2.7.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/Plugin_ApplicationPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.cheatsheets.source_2.5.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.databinding.source_1.3.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/triggerAction_Action.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.codegen.source_2.11.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.codegen.ecore.ui.source_2.12.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.databinding.edit.source_1.3.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/ecore-2.1.0.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.edit.ui.source_2.12.0.v20160526-0356.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/Plugin_ProjectPlugin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.source_2.12.0.v20160420-0247.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/common-2.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.importer.rose.source_2.8.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.importer.ecore.source_2.8.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.doc_2.9.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ui.source_2.7.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/Importer_ApplicationPlugin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.exporter.source_2.7.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.edit.source_2.9.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/trace.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.codegen.source_2.11.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/SVgViewer_Tool.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.databinding.edit.source_1.3.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.edit.source_2.12.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.common.source_2.12.0.v20160420-0247.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen.caches/org/kriTest/Plugin/plugin/generated" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/models/org/emf_mps/importer/Utils.mps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.editor.source_2.12.0.v20160526-0356.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/importEcoreAction_Action.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/trace.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/Plugin_ApplicationPlugin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/importActionGroup_ActionGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/testActionGroup_ActionGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/ImportViewer_Tool.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen.caches/org/emf_mps/importer/plugin/generated" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ecore2ecore.source_2.9.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/testActionGroup_ActionGroup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen.caches/org/kriTest/Plugin/plugin/dependencies" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.source_2.9.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/triggerAction_Action.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ecore2xml.source_2.9.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/Plugin_ProjectPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen.caches/org/emf_mps/importer/plugin/dependencies" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/Importer_ProjectPlugin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.codegen.ecore.ui.source_2.12.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.importer.java.source_2.7.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.xmi.source_2.12.0.v20160420-0247.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.cheatsheets_2.5.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.change.source_2.11.0.v20160420-0247.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ecore2xml.ui.source_2.8.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/Importer_ProjectPlugin.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ant.source_2.8.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/ImportViewer_Tool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/org.emf_mps.importer.msd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.codegen.ecore.source_2.12.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.importer.rose.source_2.8.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen.caches/org/emf_mps/importer/plugin/generated" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ecore2xml.source_2.9.0.v20160526-0356.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/SVgViewer_Tool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/triggerAction_Action.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/Plugin_ApplicationPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/Importer_ApplicationPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.common.ui.source_2.11.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/importActionGroup_ActionGroup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/ecore-2.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.cheatsheets.source_2.5.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/models/org/emf_mps/importer/plugin.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.doc_2.9.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.edit.source_2.9.0.v20160526-0356.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/importEcoreAction_Action.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/ecore-xmi-2.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.codegen.ui.source_2.6.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.databinding.source_1.3.0.v20160526-0356.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.importer.source_2.9.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/common-2.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.common.source_2.12.0.v20160420-0247.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/importActionGroup_ActionGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/ImportViewer_Tool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/SVgViewer_Tool.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/Plugin_ApplicationPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.exporter.source_2.7.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/testActionGroup_ActionGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.xmi.source_2.12.0.v20160420-0247.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/Importer_ProjectPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/models/org/emf_mps/importer/plugin.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ecore2ecore.source_2.9.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/Importer_ProjectPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.change.edit.source_2.6.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.edit.source_2.12.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/models/org/emf_mps/importer/Utils.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.cheatsheets_2.5.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/triggerAction_Action.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ui.source_2.7.0.v20160526-0356.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
     </list>
     <ignored path="Project_Test.iws" />
@@ -91,7 +91,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="0399f274-195f-4c14-9a11-12e886581f14/r:f11d8370-9e95-41e1-aee8-176d4ee3e519(TempModule0399f274-195f-4c14-9a11-12e886581f14/TempModel_711768043775150)">
+            <model ref="f2ee65cf-0559-4290-b4ca-b418601c56c3/r:644b3a2a-fd34-4d89-8fe5-17387e519172(TempModulef2ee65cf-0559-4290-b4ca-b418601c56c3/TempModel_712150103212207)">
               <persistence version="9" />
               <languages>
                 <use id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base" version="0" />
@@ -121,9 +121,9 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="20yhJALENZU">
-                <node concept="3balQm" id="20yhJALENZV" role="aymYE" />
-                <node concept="2Clz$F" id="20yhJALENZW" role="aymYO">
+              <node concept="aymSD" id="5B4V9ihdB8U">
+                <node concept="3balQm" id="5B4V9ihdB8V" role="aymYE" />
+                <node concept="2Clz$F" id="5B4V9ihdB8W" role="aymYO">
                   <property role="TrG5h" value="CommandHolder" />
                 </node>
               </node>
@@ -152,7 +152,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="importEcoreAction" pinned="false" current-in-tab="true">
+      <file leaf-file-name="importEcoreAction" pinned="false" current-in-tab="false">
         <entry file="mps://node://org.emf_mps.importer/org.emf_mps.importer.plugin/importEcoreAction">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -185,7 +185,7 @@
                   </collapsedElement>
                 </restoreAlways>
               </memento>
-              <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/5959736156251802526" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/2471991291729205807" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -197,25 +197,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImporterUtils" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ImporterUtils" pinned="false" current-in-tab="true">
         <entry file="mps://node://org.emf_mps.importer/org.emf_mps.importer.plugin/ImporterUtils">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="360">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="314" />
-                    <property name="caretXRelative" value="104" />
+                    <property name="caretX" value="586" />
+                    <property name="caretXRelative" value="6" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/2471991291729205808" />
+                    <cellInfo cellId="VDNCC_property_name" cellNumber="0" isInList="false">
+                      <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/2471991291729205807" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
-                <errorMarkers />
+                <errorMarkers>
+                  <errorMarker text="otherConceptStr" propertyCell="false" cellNumber="0" isInList="false">
+                    <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112612768634" />
+                    <parent cellId="Collection_ge17fi_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112612768634" />
+                    </parent>
+                  </errorMarker>
+                  <errorMarker text="otherConceptStr" propertyCell="false" cellNumber="0" isInList="false">
+                    <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112613527406" />
+                    <parent cellId="Collection_ge17fi_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112613527406" />
+                    </parent>
+                  </errorMarker>
+                </errorMarkers>
                 <transactionalProperties />
                 <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6468555087646960186" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6468555087646558192" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6468555087647126449" />
+                    </cellIdElement>
+                  </collapsedElement>
                   <collapsedElement isCollapsed="false">
                     <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
                       <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/5959736156251801661" />
@@ -236,6 +264,11 @@
                       <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/1091774199223635394" />
                     </cellIdElement>
                   </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/1532369390852332325" />
+                    </cellIdElement>
+                  </collapsedElement>
                 </foldable>
                 <restoreAlways>
                   <collapsedElement isCollapsed="false">
@@ -245,7 +278,7 @@
                   </collapsedElement>
                 </restoreAlways>
               </memento>
-              <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/5959736156251802526" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/2471991291729205807" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -371,16 +404,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystem" />
-      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
@@ -400,12 +425,44 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules Pool" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure) in IdeaFile{file://C:/Emf_MPS_Importer/languages/org.smodel.test/models/structure.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/solutions/importer_plugin/org.emf_mps.importer.msd" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -427,48 +484,16 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/importer_plugin/org.emf_mps.importer.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
           <SELECTED>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure) in IdeaFile{file://C:/Emf_MPS_Importer/languages/org.smodel.test/models/structure.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </SELECTED>
         </subPane>
       </pane>
+      <pane id="FileSystem" />
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -551,7 +576,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3792" y="-2938" width="2184" height="3794" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941777" sideWeight="0.33796296" order="7" side_tool="false" content_ui="tabs" />
@@ -576,7 +601,7 @@
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21157408" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21157408" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Visualisation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.260095" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -608,103 +633,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://NewSolution/model2/null" />
-    <entry file="mps://node://NewSolution/model2/null" />
-    <entry file="mps://node://NewSolution/model2/Bar2" />
-    <entry file="mps://node://NewSolution/model2/Bar" />
-    <entry file="mps://node://NewSolution/NewSolution.kriModel/null" />
-    <entry file="mps://node://kriDSL/kriDSL.structure/&lt;no name&gt;[ConceptDeclaration]" />
-    <entry file="mps://node://NewSolution/NewSolution.kriModel/kri concept" />
-    <entry file="mps://node://NewSolution/model2/Foo" />
-    <entry file="mps://node://NewSolution/NewSolution.kriModel/Demo" />
-    <entry file="mps://node://Plugin_Solution_Test/Plugin_Solution_Test.plugin/&lt;no name&gt;[ToolDeclaration]" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/&lt;no name&gt;[ToolDeclaration]" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/&lt;no name&gt;[ActionGroupDeclaration]" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/&lt;no name&gt;[ActionDeclaration]" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/StandalonePluginDescriptor" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/testActionGroup" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/SVgViewer" />
-    <entry file="mps://node://org.kriTest.Plugin/org.eclipse.emf.cheatsheets@java_stub/CheatSheetsPlugin" />
-    <entry file="mps://node://org.kriTest.Plugin/org.eclipse.emf.cheatsheets.actions@java_stub/OpenEMFModelWizardAction" />
-    <entry file="mps://node://org.kriTest.Plugin/org.eclipse.emf.cheatsheets.actions@java_stub/BuildAllProjectsAction" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/triggerAction" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/SVgViewer" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/SVgViewer" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/SVgViewer" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/SVgViewer" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/triggerAction" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/triggerAction" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/triggerAction" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/triggerAction" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/triggerAction" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/SVgViewer" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/SVgViewer" />
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/SVgViewer" />
-    <entry file="mps://node://jetbrains.mps.lang.plugin/jetbrains.mps.lang.plugin.structure/ToolDeclaration">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="80" />
-                <property name="caretXRelative" value="65" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:00000000-0000-4000-0000-011c89590368(jetbrains.mps.lang.plugin.structure)/1203071677434" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c89590368(jetbrains.mps.lang.plugin.structure)/1203071677434" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:00000000-0000-4000-0000-011c89590368(jetbrains.mps.lang.plugin.structure)/1203071677434" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/SVgViewer" />
-    <entry file="mps://node://jetbrains.mps.lang.structure/jetbrains.mps.lang.structure.structure/ConceptDeclaration">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="687" />
-                <property name="caretXRelative" value="110" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/3040426542818214336" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" />
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://jetbrains.mps.lang.structure/jetbrains.mps.lang.structure.structure/AbstractConceptDeclaration">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -771,38 +699,6 @@
     </entry>
     <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/SVgViewer" />
     <entry file="mps://node://org.kriTest.Plugin/org.kriTest.Plugin.plugin/triggerAction" />
-    <entry file="mps://node://jetbrains.mps.lang.structure/jetbrains.mps.lang.structure.structure/ConceptDeclaration">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="687" />
-                <property name="caretXRelative" value="110" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" />
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://jetbrains.mps.lang.structure/jetbrains.mps.lang.structure.structure/AbstractConceptDeclaration">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
@@ -999,64 +895,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://org.emf_mps.importer/org.emf_mps.importer.plugin/ImporterUtils">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="314" />
-                <property name="caretXRelative" value="104" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/2471991291729205808" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/5959736156251801661" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/1091774199223641190" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/1091774199223637228" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/1091774199223635394" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/5959736156251801661" />
-                </cellIdElement>
-              </collapsedElement>
-            </restoreAlways>
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/5959736156251802526" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://org.emf_mps.importer/org.emf_mps.importer.plugin/importEcoreAction">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -1091,6 +929,1309 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.emf_mps.importer/org.emf_mps.importer.plugin/importEcoreAction">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="93" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/5959736156251802526" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/3040426542818214337" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/3040426542818214337" />
+                </cellIdElement>
+              </collapsedElement>
+            </restoreAlways>
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/2471991291729205807" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.lang.smodel/jetbrains.mps.lang.smodel.structure/SNodeType">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <property name="caretXRelative" value="-15" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_ueqr71_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)/1138055754698" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)/1138055754698" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <property name="caretXRelative" value="-15" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_ueqr71_a_0" cellNumber="0" isInList="false">
+                  <node node_reference="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)/1138055754698" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)/1138055754698" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.lang.structure/jetbrains.mps.lang.structure.structure/InterfaceConceptDeclaration">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="546" />
+                <property name="caretXRelative" value="357" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name" cellNumber="0" isInList="false">
+                  <node node_reference="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1169125989551" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/2471991291729205825" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1169125989551" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.lang.structure/jetbrains.mps.lang.structure.structure/ConceptDeclaration">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="687" />
+                <property name="caretXRelative" value="110" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="41" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="emptyPropertiesPlaceHolder" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/2315491196663606730" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894531" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894531" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/2315491196663606730" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894531" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894531" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894531" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894531" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894531" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894531" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894531" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894531" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/2315491196663606731" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894533" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894533" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/2315491196663606731" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894533" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894533" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894533" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894533" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894533" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894533" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894533" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894533" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <node />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass3">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="378" />
+                <property name="caretXRelative" value="136" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/2315491196663606732" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894535" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894535" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/2315491196663606732" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass3">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="378" />
+                <property name="caretXRelative" value="136" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894535" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894535" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894535" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894535" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass3">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="378" />
+                <property name="caretXRelative" value="136" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894535" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894535" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894535" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087646894535" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass3">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <node />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <node />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016486" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016486" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016486" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016486" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016486" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016486" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016486" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016486" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016486" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016488" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016488" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016486" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016488" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016488" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016488" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016488" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016488" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016488" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016488" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016488" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016488" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016490" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016490" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016488" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass3">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="378" />
+                <property name="caretXRelative" value="136" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016490" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016490" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016490" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016490" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass3">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="378" />
+                <property name="caretXRelative" value="136" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016490" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016490" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016490" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647016490" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052717" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052717" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052717" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052717" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052717" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052717" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052717" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052717" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052717" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052719" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052719" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052717" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052719" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052719" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052719" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052719" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052719" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052719" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052719" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647052719" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.emf_mps.importer/org.emf_mps.importer.plugin/ImporterUtils">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="360">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="586" />
+                <property name="caretXRelative" value="6" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="VDNCC_property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/2471991291729205807" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="otherConceptStr" propertyCell="false" cellNumber="0" isInList="false">
+                <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112612768634" />
+                <parent cellId="Collection_ge17fi_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112612768634" />
+                </parent>
+              </errorMarker>
+              <errorMarker text="otherConceptStr" propertyCell="false" cellNumber="0" isInList="false">
+                <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112613527406" />
+                <parent cellId="Collection_ge17fi_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112613527406" />
+                </parent>
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6468555087646960186" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6468555087646558192" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6468555087647126449" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/5959736156251801661" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/1091774199223641190" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/1091774199223637228" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/1091774199223635394" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/1532369390852332325" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/5959736156251801661" />
+                </cellIdElement>
+              </collapsedElement>
+            </restoreAlways>
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/2471991291729205807" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114965" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="106" />
+                <property name="caretXRelative" value="91" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
+                <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/6468555087647114963" />
         </state>
       </provider>
     </entry>
