@@ -7,9 +7,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb29ca48-eca1-4e36-a785-12badba2ed6c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ant.source_2.8.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.cheatsheets.source_2.5.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.cheatsheets_2.5.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.codegen.ecore.source_2.12.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.codegen.ecore.ui.source_2.12.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.codegen.source_2.11.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.codegen.ui.source_2.6.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.common.source_2.12.0.v20160420-0247.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.common.ui.source_2.11.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.converter.source_2.7.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.databinding.edit.source_1.3.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.databinding.source_1.3.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.doc_2.9.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.change.edit.source_2.6.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.change.source_2.11.0.v20160420-0247.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.edit.source_2.9.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.editor.source_2.12.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.source_2.12.0.v20160420-0247.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.ecore.xmi.source_2.12.0.v20160420-0247.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.edit.source_2.12.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.edit.ui.source_2.12.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.exporter.source_2.7.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.importer.ecore.source_2.8.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.importer.java.source_2.7.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.importer.rose.source_2.8.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.importer.source_2.9.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ecore2ecore.editor.source_2.7.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ecore2ecore.source_2.9.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ecore2xml.source_2.9.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ecore2xml.ui.source_2.8.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.source_2.9.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/EcoreJars/org.eclipse.emf.mapping.ui.source_2.7.0.v20160526-0356.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/ImportViewer_Tool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/Importer_ApplicationPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/Importer_ProjectPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/importActionGroup_ActionGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/importEcoreAction_Action.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/emf_mps/importer/plugin/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/Plugin_ApplicationPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/Plugin_ProjectPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/SVgViewer_Tool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/testActionGroup_ActionGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/classes_gen/org/kriTest/Plugin/plugin/triggerAction_Action.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/common-2.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/ecore-2.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/ecore-xmi-2.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/models/org/emf_mps/importer/Utils.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/models/org/emf_mps/importer/plugin.mps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/org.emf_mps.importer.msd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen.caches/org/emf_mps/importer/plugin/dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen.caches/org/emf_mps/importer/plugin/generated" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen.caches/org/kriTest/Plugin/plugin/dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen.caches/org/kriTest/Plugin/plugin/generated" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/ImportViewer_Tool.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/Importer_ApplicationPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/Importer_ProjectPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/importActionGroup_ActionGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/importEcoreAction_Action.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/emf_mps/importer/plugin/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/Plugin_ApplicationPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/Plugin_ProjectPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/SVgViewer_Tool.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/testActionGroup_ActionGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/trace.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/source_gen/org/kriTest/Plugin/plugin/triggerAction_Action.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.smodel.test/models/structure.mps" afterPath="$PROJECT_DIR$/languages/org.smodel.test/models/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/org.kriTestPlugin/models/org/emf_mps/importer/plugin.mps" afterPath="$PROJECT_DIR$/solutions/org.kriTestPlugin/models/org/emf_mps/importer/plugin.mps" />
     </list>
     <ignored path="Project_Test.iws" />
     <ignored path=".mps/workspace.xml" />
@@ -26,7 +91,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="ebb26962-9bf5-4f9f-a749-ef3c0dfe7abe/r:831b26b1-0282-4fc7-9139-bd28aa77ae3f(TempModuleebb26962-9bf5-4f9f-a749-ef3c0dfe7abe/TempModel_706505397773681)">
+            <model ref="a6cbeb2d-b819-44eb-a500-57323888c50d/r:90b49cf6-8b36-47c0-99f1-8d95a725e347(TempModulea6cbeb2d-b819-44eb-a500-57323888c50d/TempModel_706728510037032)">
               <persistence version="9" />
               <languages>
                 <use id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base" version="0" />
@@ -56,9 +121,9 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="5XS245QuwrC">
-                <node concept="3balQm" id="5XS245QuwrD" role="aymYE" />
-                <node concept="2Clz$F" id="5XS245QuwrE" role="aymYO">
+              <node concept="aymSD" id="5aPf7l4rHP9">
+                <node concept="3balQm" id="5aPf7l4rHPa" role="aymYE" />
+                <node concept="2Clz$F" id="5aPf7l4rHPb" role="aymYO">
                   <property role="TrG5h" value="CommandHolder" />
                 </node>
               </node>
@@ -328,9 +393,56 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Favorites" />
       <pane id="FileSystem" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure) in IdeaFile{file://C:/Emf_MPS_Importer/languages/org.smodel.test/models/structure.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$USER_HOME$/MPSProjects/Project_Test/solutions/org.kriTestPlugin/org.emf_mps.importer.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules Pool" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
@@ -342,10 +454,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="org" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:aa526cfe-14af-46ee-9513-3e191cb789e8(org.emf_mps.importer.Utils) in IdeaFile{file://C:/Users/knarasimhan/MPSProjects/Project_Test/solutions/org.kriTestPlugin/models/org/emf_mps/importer/Utils.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,64 +480,6 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$USER_HOME$/MPSProjects/Project_Test/solutions/org.kriTestPlugin/org.emf_mps.importer.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure) in IdeaFile{file://C:/Emf_MPS_Importer/languages/org.smodel.test/models/structure.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$USER_HOME$/MPSProjects/Project_Test/solutions/org.kriTestPlugin/org.emf_mps.importer.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Solutions" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MPS" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
               <option name="myItemType" value="" />
@@ -445,41 +495,15 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org.smodel.test#2160953173061202034" />
+              <option name="myItemId" value="$USER_HOME$/MPSProjects/Project_Test/solutions/org.kriTestPlugin/org.emf_mps.importer.msd" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="org" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Solutions" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
+              <option name="myItemId" value="r:aa526cfe-14af-46ee-9513-3e191cb789e8(org.emf_mps.importer.Utils) in IdeaFile{file://C:/Users/knarasimhan/MPSProjects/Project_Test/solutions/org.kriTestPlugin/models/org/emf_mps/importer/Utils.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -505,6 +529,24 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org.smodel.test#2160953173061202034" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
           <SELECTED>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
@@ -521,7 +563,6 @@
           </SELECTED>
         </subPane>
       </pane>
-      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
