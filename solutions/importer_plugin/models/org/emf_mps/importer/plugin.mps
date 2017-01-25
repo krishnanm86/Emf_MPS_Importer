@@ -2138,37 +2138,38 @@
                       <property role="3SKdUp" value="otherwise, extend the currNode" />
                     </node>
                   </node>
-                  <node concept="3cpWs8" id="rMSKdR6LF9" role="3cqZAp">
-                    <node concept="3cpWsn" id="rMSKdR6LFc" role="3cpWs9">
+                  <node concept="3cpWs8" id="kKkqmFhgBn" role="3cqZAp">
+                    <node concept="3cpWsn" id="kKkqmFhgBo" role="3cpWs9">
                       <property role="TrG5h" value="cdCurrNode" />
-                      <node concept="3Tqbb2" id="rMSKdR6LF7" role="1tU5fm">
-                        <ref role="ehGHo" to="tpce:f_TIwhg" resolve="ConceptDeclaration" />
+                      <node concept="3Tqbb2" id="kKkqmFhgBp" role="1tU5fm">
+                        <ref role="ehGHo" to="tpce:h0PkWnZ" resolve="AbstractConceptDeclaration" />
                       </node>
-                      <node concept="1PxgMI" id="rMSKdR6SpG" role="33vP2m">
-                        <ref role="1m5ApE" to="tpce:f_TIwhg" resolve="ConceptDeclaration" />
-                        <node concept="37vLTw" id="53FxfhV80It" role="1m5AlR">
+                      <node concept="1PxgMI" id="kKkqmFhgBq" role="33vP2m">
+                        <ref role="1m5ApE" to="tpce:h0PkWnZ" resolve="AbstractConceptDeclaration" />
+                        <node concept="37vLTw" id="kKkqmFhgBr" role="1m5AlR">
                           <ref role="3cqZAo" node="7sCQO4extew" resolve="conceptNode" />
                         </node>
                       </node>
                     </node>
                   </node>
-                  <node concept="3clFbF" id="rMSKdR6SJ5" role="3cqZAp">
-                    <node concept="2OqwBi" id="rMSKdR6TGI" role="3clFbG">
-                      <node concept="2OqwBi" id="rMSKdR6SXW" role="2Oq$k0">
-                        <node concept="37vLTw" id="rMSKdR6SJ3" role="2Oq$k0">
-                          <ref role="3cqZAo" node="rMSKdR6LFc" resolve="cdCurrNode" />
+                  <node concept="3clFbF" id="kKkqmFhhWM" role="3cqZAp">
+                    <node concept="2OqwBi" id="kKkqmFhjgx" role="3clFbG">
+                      <node concept="2OqwBi" id="kKkqmFhiho" role="2Oq$k0">
+                        <node concept="37vLTw" id="kKkqmFhhWK" role="2Oq$k0">
+                          <ref role="3cqZAo" node="kKkqmFhgBo" resolve="cdCurrNode" />
                         </node>
-                        <node concept="3TrEf2" id="rMSKdR6Tf3" role="2OqNvi">
+                        <node concept="3TrEf2" id="kKkqmFhiNE" role="2OqNvi">
                           <ref role="3Tt5mk" to="tpce:f_TJDff" resolve="extends" />
                         </node>
                       </node>
-                      <node concept="2oxUTD" id="rMSKdR6TZs" role="2OqNvi">
-                        <node concept="37vLTw" id="rMSKdR6XY4" role="2oxUTC">
+                      <node concept="2oxUTD" id="kKkqmFhjQQ" role="2OqNvi">
+                        <node concept="37vLTw" id="kKkqmFhkd1" role="2oxUTC">
                           <ref role="3cqZAo" node="53FxfhV7Doz" resolve="otherNode" />
                         </node>
                       </node>
                     </node>
                   </node>
+                  <node concept="3clFbH" id="kKkqmFhglI" role="3cqZAp" />
                 </node>
               </node>
             </node>
@@ -2540,6 +2541,42 @@
               </node>
             </node>
           </node>
+          <node concept="3eNFk2" id="kKkqmFin2S" role="3eNLev">
+            <node concept="2OqwBi" id="kKkqmFin2T" role="3eO9$A">
+              <node concept="37vLTw" id="kKkqmFin2U" role="2Oq$k0">
+                <ref role="3cqZAo" node="5B4V9ihfz1J" resolve="typeAsELiteral" />
+              </node>
+              <node concept="liA8E" id="kKkqmFin2V" role="2OqNvi">
+                <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object):boolean" resolve="equals" />
+                <node concept="2OqwBi" id="kKkqmFin2W" role="37wK5m">
+                  <node concept="2OqwBi" id="kKkqmFin2X" role="2Oq$k0">
+                    <node concept="10M0yZ" id="kKkqmFin2Y" role="2Oq$k0">
+                      <ref role="3cqZAo" to="iuoz:~EcorePackage.eINSTANCE" resolve="eINSTANCE" />
+                      <ref role="1PxDUh" to="iuoz:~EcorePackage" resolve="EcorePackage" />
+                    </node>
+                    <node concept="liA8E" id="kKkqmFin2Z" role="2OqNvi">
+                      <ref role="37wK5l" to="iuoz:~EcorePackage.getEBigInteger():org.eclipse.emf.ecore.EDataType" resolve="getEBigInteger" />
+                    </node>
+                  </node>
+                  <node concept="liA8E" id="kKkqmFin30" role="2OqNvi">
+                    <ref role="37wK5l" to="iuoz:~ENamedElement.getName():java.lang.String" resolve="getName" />
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node concept="3clFbS" id="kKkqmFin31" role="3eOfB_">
+              <node concept="3clFbF" id="kKkqmFin32" role="3cqZAp">
+                <node concept="37vLTI" id="kKkqmFin33" role="3clFbG">
+                  <node concept="3B5_sB" id="kKkqmFin34" role="37vLTx">
+                    <ref role="3B5MYn" to="wyt6:~Long" resolve="Long" />
+                  </node>
+                  <node concept="37vLTw" id="kKkqmFin35" role="37vLTJ">
+                    <ref role="3cqZAo" node="5B4V9ihfzHA" resolve="retNode" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
           <node concept="3eNFk2" id="72VA44qMq0$" role="3eNLev">
             <node concept="2OqwBi" id="72VA44qMq0_" role="3eO9$A">
               <node concept="37vLTw" id="72VA44qMq0A" role="2Oq$k0">
@@ -2647,6 +2684,88 @@
                     <ref role="3B5MYn" to="wyt6:~Integer" resolve="Integer" />
                   </node>
                   <node concept="37vLTw" id="kKkqmFgwkC" role="37vLTJ">
+                    <ref role="3cqZAo" node="5B4V9ihfzHA" resolve="retNode" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="3eNFk2" id="kKkqmFinsm" role="3eNLev">
+            <node concept="2OqwBi" id="kKkqmFinsn" role="3eO9$A">
+              <node concept="37vLTw" id="kKkqmFinso" role="2Oq$k0">
+                <ref role="3cqZAo" node="5B4V9ihfz1J" resolve="typeAsELiteral" />
+              </node>
+              <node concept="liA8E" id="kKkqmFinsp" role="2OqNvi">
+                <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object):boolean" resolve="equals" />
+                <node concept="2OqwBi" id="kKkqmFinsq" role="37wK5m">
+                  <node concept="2OqwBi" id="kKkqmFinsr" role="2Oq$k0">
+                    <node concept="10M0yZ" id="kKkqmFinss" role="2Oq$k0">
+                      <ref role="3cqZAo" to="iuoz:~EcorePackage.eINSTANCE" resolve="eINSTANCE" />
+                      <ref role="1PxDUh" to="iuoz:~EcorePackage" resolve="EcorePackage" />
+                    </node>
+                    <node concept="liA8E" id="kKkqmFinst" role="2OqNvi">
+                      <ref role="37wK5l" to="iuoz:~EcorePackage.getEDoubleObject():org.eclipse.emf.ecore.EDataType" resolve="getEDoubleObject" />
+                    </node>
+                  </node>
+                  <node concept="liA8E" id="kKkqmFinsu" role="2OqNvi">
+                    <ref role="37wK5l" to="iuoz:~ENamedElement.getName():java.lang.String" resolve="getName" />
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node concept="3clFbS" id="kKkqmFinsv" role="3eOfB_">
+              <node concept="3SKdUt" id="kKkqmFinsw" role="3cqZAp">
+                <node concept="3SKdUq" id="kKkqmFinsx" role="3SKWNk">
+                  <property role="3SKdUp" value="TODO: Need to check what is the difference between EDoubleObject and EDouble" />
+                </node>
+              </node>
+              <node concept="3clFbF" id="kKkqmFinsy" role="3cqZAp">
+                <node concept="37vLTI" id="kKkqmFinsz" role="3clFbG">
+                  <node concept="3B5_sB" id="kKkqmFins$" role="37vLTx">
+                    <ref role="3B5MYn" to="wyt6:~Double" resolve="Double" />
+                  </node>
+                  <node concept="37vLTw" id="kKkqmFins_" role="37vLTJ">
+                    <ref role="3cqZAo" node="5B4V9ihfzHA" resolve="retNode" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="3eNFk2" id="kKkqmFinOU" role="3eNLev">
+            <node concept="2OqwBi" id="kKkqmFinOV" role="3eO9$A">
+              <node concept="37vLTw" id="kKkqmFinOW" role="2Oq$k0">
+                <ref role="3cqZAo" node="5B4V9ihfz1J" resolve="typeAsELiteral" />
+              </node>
+              <node concept="liA8E" id="kKkqmFinOX" role="2OqNvi">
+                <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object):boolean" resolve="equals" />
+                <node concept="2OqwBi" id="kKkqmFinOY" role="37wK5m">
+                  <node concept="2OqwBi" id="kKkqmFinOZ" role="2Oq$k0">
+                    <node concept="10M0yZ" id="kKkqmFinP0" role="2Oq$k0">
+                      <ref role="3cqZAo" to="iuoz:~EcorePackage.eINSTANCE" resolve="eINSTANCE" />
+                      <ref role="1PxDUh" to="iuoz:~EcorePackage" resolve="EcorePackage" />
+                    </node>
+                    <node concept="liA8E" id="kKkqmFinP1" role="2OqNvi">
+                      <ref role="37wK5l" to="iuoz:~EcorePackage.getEFloatObject():org.eclipse.emf.ecore.EDataType" resolve="getEFloatObject" />
+                    </node>
+                  </node>
+                  <node concept="liA8E" id="kKkqmFinP2" role="2OqNvi">
+                    <ref role="37wK5l" to="iuoz:~ENamedElement.getName():java.lang.String" resolve="getName" />
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node concept="3clFbS" id="kKkqmFinP3" role="3eOfB_">
+              <node concept="3SKdUt" id="kKkqmFinP4" role="3cqZAp">
+                <node concept="3SKdUq" id="kKkqmFinP5" role="3SKWNk">
+                  <property role="3SKdUp" value="TODO: Need to check what is the difference between EFloatObject and EFloat" />
+                </node>
+              </node>
+              <node concept="3clFbF" id="kKkqmFinP6" role="3cqZAp">
+                <node concept="37vLTI" id="kKkqmFinP7" role="3clFbG">
+                  <node concept="3B5_sB" id="kKkqmFinP8" role="37vLTx">
+                    <ref role="3B5MYn" to="wyt6:~Float" resolve="Float" />
+                  </node>
+                  <node concept="37vLTw" id="kKkqmFinP9" role="37vLTJ">
                     <ref role="3cqZAo" node="5B4V9ihfzHA" resolve="retNode" />
                   </node>
                 </node>

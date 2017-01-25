@@ -7,14 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb29ca48-eca1-4e36-a785-12badba2ed6c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.mps/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/importer_plugin/classes_gen/org/emf_mps/importer/plugin/importEcoreAction_Action.class" afterPath="$PROJECT_DIR$/solutions/importer_plugin/classes_gen/org/emf_mps/importer/plugin/importEcoreAction_Action.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.smodel.test/models/structure.mps" afterPath="$PROJECT_DIR$/languages/org.smodel.test/models/structure.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/importer_plugin/classes_gen/org/emf_mps/importer/plugin/trace.info" afterPath="$PROJECT_DIR$/solutions/importer_plugin/classes_gen/org/emf_mps/importer/plugin/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/importer_plugin/models/org/emf_mps/importer/Utils.mps" afterPath="$PROJECT_DIR$/solutions/importer_plugin/models/org/emf_mps/importer/Utils.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/importer_plugin/models/org/emf_mps/importer/plugin.mps" afterPath="$PROJECT_DIR$/solutions/importer_plugin/models/org/emf_mps/importer/plugin.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/importer_plugin/org.emf_mps.importer.msd" afterPath="$PROJECT_DIR$/solutions/importer_plugin/org.emf_mps.importer.msd" />
     </list>
     <ignored path="Project_Test.iws" />
     <ignored path=".mps/workspace.xml" />
@@ -125,7 +120,7 @@
                   </collapsedElement>
                 </restoreAlways>
               </memento>
-              <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6833085695989158243" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112613892152" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -141,15 +136,15 @@
         <entry file="mps://node://org.emf_mps.importer/org.emf_mps.importer.plugin/ImporterUtils">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="3836">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="3864">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="54" />
-                    <property name="caretXRelative" value="13" />
+                    <property name="caretX" value="754" />
+                    <property name="caretXRelative" value="19" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_fao2ea_c0" cellNumber="0" isInList="false">
-                      <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6833085695989158243" />
+                    <cellInfo cellId="Constant_i0gfbw_a4a" cellNumber="0" isInList="false">
+                      <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112613892152" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -205,12 +200,12 @@
                 <restoreAlways>
                   <collapsedElement isCollapsed="false">
                     <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6833085695989158243" />
+                      <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/8586353762044855767" />
                     </cellIdElement>
                   </collapsedElement>
                 </restoreAlways>
               </memento>
-              <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6833085695989158243" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112613892152" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -218,74 +213,6 @@
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FAnnotation" pinned="false" current-in-tab="false">
-        <entry file="mps://node://org.smodel.test/org.smodel.test.structure/FAnnotation">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="106" />
-                    <property name="caretXRelative" value="91" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056531621" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6833085695989158243" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056531621" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FCompoundType" pinned="false" current-in-tab="false">
-        <entry file="mps://node://org.smodel.test/org.smodel.test.structure/FCompoundType">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="417" />
-                    <property name="caretXRelative" value="175" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="name" cellNumber="0" isInList="false">
-                      <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056531577" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6833085695989158243" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056531577" />
             </state>
           </provider>
         </entry>
@@ -413,8 +340,34 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/solutions/importer_plugin/org.emf_mps.importer.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules Pool" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -425,6 +378,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="$PROJECT_DIR$/solutions/importer_plugin/org.emf_mps.importer.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/solutions/importer_plugin/org.emf_mps.importer.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stubs" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/solutions/importer_plugin/org.emf_mps.importer.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stubs" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -456,40 +437,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/importer_plugin/org.emf_mps.importer.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/importer_plugin/org.emf_mps.importer.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stubs" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -498,44 +445,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/importer_plugin/org.emf_mps.importer.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stubs" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <SELECTED>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="79dc0467-11f8-40ed-a594-cff098d8bec4(org.smodel.test)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure) in IdeaFile{file://C:/Emf_MPS_Importer/languages/org.smodel.test/models/structure.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="373888541056531577" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </SELECTED>
         </subPane>
       </pane>
     </panes>
@@ -625,7 +534,7 @@
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902694" sideWeight="0.32453704" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24326552" sideWeight="0.6643519" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24326552" sideWeight="0.66712964" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -636,10 +545,10 @@
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985157" sideWeight="0.49814814" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.28578976" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24326552" sideWeight="0.33564815" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24326552" sideWeight="0.33287036" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39527214" sideWeight="0.76574075" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39527214" sideWeight="0.7601852" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985157" sideWeight="0.49444443" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -677,10 +586,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1" />
-    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass1" />
-    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2" />
-    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2" />
     <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass2" />
     <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass3" />
     <entry file="mps://node://org.smodel.test/org.smodel.test.structure/testClass3" />
@@ -729,7 +634,7 @@
               </collapsedElement>
             </restoreAlways>
           </memento>
-          <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6833085695989158243" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112613892152" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1555,47 +1460,29 @@
     <entry file="mps://node://org.smodel.test/org.smodel.test.structure/FAnnotation">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="106" />
-                <property name="caretXRelative" value="91" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056531621" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6833085695989158243" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056531621" />
+          <node />
         </state>
       </provider>
     </entry>
     <entry file="mps://node://org.smodel.test/org.smodel.test.structure/FCompoundType">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <node />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.lang.structure/jetbrains.mps.lang.structure.structure/InterfaceConceptDeclaration">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="417" />
-                <property name="caretXRelative" value="175" />
+                <property name="caretX" value="546" />
+                <property name="caretXRelative" value="357" />
                 <property name="sideSelectDirection" value="NONE" />
                 <cellInfo cellId="name" cellNumber="0" isInList="false">
-                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056531577" />
+                  <node node_reference="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1169125989551" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1604,7 +1491,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6833085695989158243" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1169125989551" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1612,22 +1499,118 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056531577" />
+          <node node_ref="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1169125989551" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.lang.structure/jetbrains.mps.lang.structure.structure/ConceptDeclaration">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="429" />
+                <property name="caretXRelative" value="240" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name" cellNumber="0" isInList="false">
+                  <node node_reference="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/AllocationConstraint">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="508" />
+                <property name="caretXRelative" value="266" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056982431" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056982431" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056982431" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.smodel.test/org.smodel.test.structure/AbstractElementMemoryInformation">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="184" />
+                <property name="caretXRelative" value="143" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_7v1nzk_h1c0" cellNumber="0" isInList="false">
+                  <node node_reference="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056982462" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056982462" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d7862490-ab45-4896-9b7c-c2a310977a79(org.smodel.test.structure)/373888541056982462" />
         </state>
       </provider>
     </entry>
     <entry file="mps://node://org.emf_mps.importer/org.emf_mps.importer.plugin/ImporterUtils">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="3836">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="3864">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="54" />
-                <property name="caretXRelative" value="13" />
+                <property name="caretX" value="754" />
+                <property name="caretXRelative" value="19" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_fao2ea_c0" cellNumber="0" isInList="false">
-                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6833085695989158243" />
+                <cellInfo cellId="Constant_i0gfbw_a4a" cellNumber="0" isInList="false">
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112613892152" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1683,12 +1666,12 @@
             <restoreAlways>
               <collapsedElement isCollapsed="false">
                 <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6833085695989158243" />
+                  <node node_reference="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/8586353762044855767" />
                 </cellIdElement>
               </collapsedElement>
             </restoreAlways>
           </memento>
-          <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/6833085695989158243" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:1764e886-bde7-4513-8b69-527af62b45d0(org.emf_mps.importer.plugin)/500712112613892152" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
