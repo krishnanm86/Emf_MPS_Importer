@@ -2,6 +2,7 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/AnnotationLanguage/AnnotationLanguage.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/org.smodel.test/org.smodel.test.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/importer_plugin/org.emf_mps.importer.msd" folder="" />
     </projectModules>
