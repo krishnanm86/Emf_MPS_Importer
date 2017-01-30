@@ -136,16 +136,8 @@
       <concept id="1146644602865" name="jetbrains.mps.baseLanguage.structure.PublicVisibility" flags="nn" index="3Tm1VV" />
     </language>
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
-      <concept id="1133920641626" name="jetbrains.mps.lang.core.structure.BaseConcept" flags="ng" index="2VYdi">
-        <child id="5169995583184591170" name="smodelAttribute" index="lGtFl" />
-      </concept>
       <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ng" index="TrEIO">
         <property id="1169194664001" name="name" index="TrG5h" />
-      </concept>
-      <concept id="779128492853369165" name="jetbrains.mps.lang.core.structure.SideTransformInfo" flags="ng" index="1KehLL">
-        <property id="779128492853935960" name="anchorTag" index="1K8rD$" />
-        <property id="779128492853934523" name="cellId" index="1K8rM7" />
-        <property id="779128492853699361" name="side" index="1Kfyot" />
       </concept>
     </language>
   </registry>
@@ -504,11 +496,6 @@
         <node concept="10P_77" id="WAKHA7Emif" role="1tU5fm" />
       </node>
       <node concept="3Tm1VV" id="WAKHA7Emig" role="1B3o_S" />
-      <node concept="1KehLL" id="WAKHA7EmmG" role="lGtFl">
-        <property role="1K8rM7" value="staticModifier" />
-        <property role="1K8rD$" value="default_RTransform" />
-        <property role="1Kfyot" value="right" />
-      </node>
     </node>
     <node concept="2tJIrI" id="WAKHA7EgZI" role="jymVt" />
     <node concept="3Tm1VV" id="WAKHA7EgZi" role="1B3o_S" />
