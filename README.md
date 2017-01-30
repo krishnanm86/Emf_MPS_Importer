@@ -16,3 +16,6 @@ Special cases:
 
 EMF allows interfaces to have normal classes as Super classes, which is not possible with MPS. Whenever such interfaces are encountered, the imported simply throws an error message, creates an interface with the properties and references, ignores the super class relationship and continues with the remaining ECLASS entries in the ECORE file. 
 
+
+
+Note: I would like to thank Bentley Oakes for his ECORE Importer , from which the inpiration came on what order to populate the Nodes in the MPS. 
