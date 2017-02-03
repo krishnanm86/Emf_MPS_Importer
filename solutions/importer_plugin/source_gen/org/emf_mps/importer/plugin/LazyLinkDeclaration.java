@@ -7,7 +7,7 @@ public class LazyLinkDeclaration {
   /*package*/ String cardinality;
   /*package*/ String metaclass;
   /*package*/ String name;
-
+  /*package*/ String targetClassName;
 
   public String getCardinality() {
     return cardinality;
@@ -26,5 +26,11 @@ public class LazyLinkDeclaration {
   }
   public void setName(String name1) {
     name = name1;
+  }
+  public String getTargetClassName() {
+    return targetClassName;
+  }
+  public void setTargetClassName(String targetClassName1) {
+    targetClassName = targetClassName1;
   }
 }
