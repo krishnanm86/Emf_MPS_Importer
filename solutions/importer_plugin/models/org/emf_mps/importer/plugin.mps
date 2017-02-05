@@ -450,25 +450,6 @@
   </node>
   <node concept="312cEu" id="WAKHA7EgZh">
     <property role="TrG5h" value="ImporterUtils" />
-    <node concept="Wx3nA" id="5VjZNMXeOc8" role="jymVt">
-      <property role="TrG5h" value="nodeMap" />
-      <property role="2dlcS1" value="false" />
-      <property role="3TUv4t" value="false" />
-      <property role="2dld4O" value="false" />
-      <node concept="3uibUv" id="5VjZNMXeOcb" role="1tU5fm">
-        <ref role="3uigEE" to="33ny:~HashMap" resolve="HashMap" />
-        <node concept="17QB3L" id="5VjZNMXeOcc" role="11_B2D" />
-        <node concept="3Tqbb2" id="5VjZNMXeOcd" role="11_B2D" />
-      </node>
-      <node concept="3Tm6S6" id="5VjZNMXeOca" role="1B3o_S" />
-      <node concept="2ShNRf" id="5VjZNMXgoAd" role="33vP2m">
-        <node concept="1pGfFk" id="5VjZNMXgxu4" role="2ShVmc">
-          <ref role="37wK5l" to="33ny:~HashMap.&lt;init&gt;()" resolve="HashMap" />
-          <node concept="17QB3L" id="5VjZNMXgyoy" role="1pMfVU" />
-          <node concept="3Tqbb2" id="5VjZNMXgyFE" role="1pMfVU" />
-        </node>
-      </node>
-    </node>
     <node concept="Wx3nA" id="57e1799m6FE" role="jymVt">
       <property role="2dlcS1" value="false" />
       <property role="2dld4O" value="false" />
@@ -583,17 +564,60 @@
       <property role="DiZV1" value="false" />
       <property role="2aFKle" value="false" />
       <node concept="3clFbS" id="5VjZNMXgiO0" role="3clF47">
-        <node concept="3clFbF" id="5VjZNMXgkxa" role="3cqZAp">
-          <node concept="37vLTI" id="5VjZNMXglNV" role="3clFbG">
-            <node concept="2ShNRf" id="5VjZNMXgmfJ" role="37vLTx">
-              <node concept="1pGfFk" id="5VjZNMXgm9L" role="2ShVmc">
+        <node concept="3clFbF" id="4GeuWQ_3tC3" role="3cqZAp">
+          <node concept="37vLTI" id="4GeuWQ_3uye" role="3clFbG">
+            <node concept="2ShNRf" id="4GeuWQ_3uOP" role="37vLTx">
+              <node concept="1pGfFk" id="4GeuWQ_3DPg" role="2ShVmc">
                 <ref role="37wK5l" to="33ny:~HashMap.&lt;init&gt;()" resolve="HashMap" />
-                <node concept="17QB3L" id="5VjZNMXgm9M" role="1pMfVU" />
-                <node concept="3Tqbb2" id="5VjZNMXgm9N" role="1pMfVU" />
+                <node concept="17QB3L" id="4GeuWQ_3EBt" role="1pMfVU" />
+                <node concept="3uibUv" id="4GeuWQ_3ESt" role="1pMfVU">
+                  <ref role="3uigEE" to="33ny:~List" resolve="List" />
+                  <node concept="3uibUv" id="4GeuWQ_3Fqm" role="11_B2D">
+                    <ref role="3uigEE" node="57e1799lZqn" resolve="LazyLinkDeclaration" />
+                  </node>
+                </node>
               </node>
             </node>
-            <node concept="37vLTw" id="5VjZNMXgkx9" role="37vLTJ">
-              <ref role="3cqZAo" node="5VjZNMXeOc8" resolve="nodeMap" />
+            <node concept="37vLTw" id="4GeuWQ_3tC2" role="37vLTJ">
+              <ref role="3cqZAo" node="57e1799m6FE" resolve="lazyReferenceMap" />
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbF" id="4GeuWQ_3G6l" role="3cqZAp">
+          <node concept="37vLTI" id="4GeuWQ_3HMr" role="3clFbG">
+            <node concept="2ShNRf" id="4GeuWQ_3I5z" role="37vLTx">
+              <node concept="1pGfFk" id="4GeuWQ_3J7c" role="2ShVmc">
+                <ref role="37wK5l" to="33ny:~HashMap.&lt;init&gt;()" resolve="HashMap" />
+                <node concept="17QB3L" id="4GeuWQ_3JTv" role="1pMfVU" />
+                <node concept="3uibUv" id="4GeuWQ_3Kav" role="1pMfVU">
+                  <ref role="3uigEE" to="33ny:~List" resolve="List" />
+                  <node concept="3uibUv" id="4GeuWQ_3Kza" role="11_B2D">
+                    <ref role="3uigEE" node="57e1799m2rc" resolve="LazyClassEnumReference" />
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node concept="37vLTw" id="4GeuWQ_3G6j" role="37vLTJ">
+              <ref role="3cqZAo" node="57e1799mlsi" resolve="lazySuperClassMap" />
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbF" id="4GeuWQ_3Lng" role="3cqZAp">
+          <node concept="37vLTI" id="4GeuWQ_3Mai" role="3clFbG">
+            <node concept="2ShNRf" id="4GeuWQ_3Ml5" role="37vLTx">
+              <node concept="1pGfFk" id="4GeuWQ_3NmT" role="2ShVmc">
+                <ref role="37wK5l" to="33ny:~HashMap.&lt;init&gt;()" resolve="HashMap" />
+                <node concept="17QB3L" id="4GeuWQ_3O9y" role="1pMfVU" />
+                <node concept="3uibUv" id="4GeuWQ_3Oqy" role="1pMfVU">
+                  <ref role="3uigEE" to="33ny:~List" resolve="List" />
+                  <node concept="3uibUv" id="4GeuWQ_3ONj" role="11_B2D">
+                    <ref role="3uigEE" node="57e1799m2rc" resolve="LazyClassEnumReference" />
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node concept="37vLTw" id="4GeuWQ_3Lne" role="37vLTJ">
+              <ref role="3cqZAo" node="57e1799mmCl" resolve="lazyPropertyEnumTypeMap" />
             </node>
           </node>
         </node>
